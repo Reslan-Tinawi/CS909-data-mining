@@ -164,3 +164,4 @@ cython_debug/
 assignment-1/data/*
 # ignore all files in assignment-2/data
 assignment-2/data/*
+playground/*
