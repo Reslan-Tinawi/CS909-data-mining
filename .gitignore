@@ -159,10 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-*.pdf
-*.mp4
-assignment-1/data/*
-# ignore all files in assignment-2/data
-assignment-2/data/*
-assignment-2/wandb/*
-playground/*
+assignment-1/cs909-assignment-1-venv
